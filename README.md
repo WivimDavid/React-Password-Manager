@@ -1,7 +1,7 @@
 # app-password
 Projeto desenvolvido através do video canal YouTube sujeito programador
 
- <img src="./src/asset/Gerador de senhas mobile.png" width="50%"/>
+ <img src="./src/asset/Gerador de senhas mobile.png" width="30%"/>
 
 # Para executar o projeto é necessário ter o Android Studio ou Xcode instalado. 
 
