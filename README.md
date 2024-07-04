@@ -3,7 +3,7 @@ Projeto desenvolvido através do video canal YouTube sujeito programador
 
  <img src="./src/asset/Gerador de senhas mobile.png"/>
 
-# Para executar o projeto é necessário ter o Android Studio instalado. 
+# Para executar o projeto é necessário ter o Android Studio ou Xcode instalado. 
 
 1️⃣ - Clone o repositório 
 
