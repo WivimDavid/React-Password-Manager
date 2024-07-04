@@ -7,6 +7,10 @@ Projeto desenvolvido através do video canal YouTube sujeito programador
 
 1️⃣ - Clone o repositório 
 
+```sh
+git clone https://github.com/WivimDavid/ReactNative-Password-Manager.git
+```
+
 2️⃣-  Abra a pasta do projeto
 
 3️⃣ - Instale as dependências com comando: 
